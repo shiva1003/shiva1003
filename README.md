@@ -1,4 +1,4 @@
-![logo](https://github.com/shiva1003/shiva1003/blob/main/i%20'm%20Shiva%20a%20tech%20aficionado%20!.mp4)
+![MasterHead](https://github.com/shiva1003/shiva1003/blob/main/i%20'm%20Shiva%20a%20tech%20aficionado%20!.mp4)
 <h1 align="center">Hi 👋, I'm Shiva Tiwari</h1>
 <h3 align="center">A passionate Data Science aficionado from India</h3>
 
