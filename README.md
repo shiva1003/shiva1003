@@ -7,9 +7,11 @@
 
 - 🔭 I’m currently working as a ML Intern **in Tekizma.Inc**
 
-- 💬 Ask me about **Machine Learning||Data Science||Python Programming||DSA||NumPy||Pandas||Matplotlib||Pyspark||SQL||PowerBI||Seaborn**
+- 💬 Ask me about **Machine Learning & Data Science || Python Programming || SQL & PySpark || DSA**
 
 - 📫 How to reach me **shivatiwari1003@gmail.com**
+
+- 📝 I write articles on https://auth.geeksforgeeks.org/user/shivatiwari1003/articles
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
