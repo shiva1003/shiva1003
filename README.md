@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiva1003&label=Profile%20views&color=0e75b6&style=flat" alt="shiva1003" /> </p>
 
-- 🔭 I’m currently working as a ML Intern **in Tekizma.Inc**
+- 🔭 Full Stack Developer **in Tekizma.Inc**
 
 - 💬 Ask me about **Machine Learning & Data Science || Python Programming || SQL & PySpark || DSA**
 
@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shiva-tiwari-889b08213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shiva-tiwari-889b08213/" height="30" width="40" /></a>
 
-<a href="https://instagram.com/shivatiwari1009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivatiwari1009" height="30" width="40" /></a>
+<a href="https://instagram.com/_shiva_teewarie_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivatiwari1009" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
